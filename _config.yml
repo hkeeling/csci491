@@ -17,8 +17,8 @@ title: CSCI 100
 tagline: Howard CSCI 100 Class Website
 description: Intro to Computer Science
 author: Alexander Krentsel
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://csci100.org' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/csci491' # the subpath of your site, e.g. /blog
+url: 'https://hkeeling.github.io'# the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
