@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CSCI 491 Senior Project I
 tagline: Howard CSCI 491 Senior Project I Class Website
-description: Intro to Computer Science
+description: Senior Project I
 author: Alexander Krentsel
 baseurl: '/csci491' # the subpath of your site, e.g. /blog
 url: 'https://hkeeling.github.io'# the base hostname & protocol for your site, e.g. http://example.com
