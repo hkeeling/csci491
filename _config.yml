@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 100
+title: CSCI 491 Senior Project I
 tagline: Howard CSCI 100 Class Website
 description: Intro to Computer Science
 author: Alexander Krentsel
