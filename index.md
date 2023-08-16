@@ -19,6 +19,8 @@ seo:
 
 ## About the Class
 
+THIS IS A TEST
+
 CSCI100 is an introductory class designed for students with no formal exposure to computer science or programming. The goal is to provide a gentle but thorough introduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
 
 See the [Syllabus page](syllabus.md) for more details on course policies.
