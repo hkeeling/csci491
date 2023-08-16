@@ -30,10 +30,10 @@ permalink: pretty
 aux_links:
   CODIO:
     - 'https://codio.com/p/login'
-  Piazza:
+  Discord:
     - 'https://piazza.com/class/ksjaetb15k147d'
-  Blackboard:
-    - 'http://blackboard.howard.edu/'
+  Canvas:
+    - 'https://canvas.howard.edu/courses/36100'
 footer_content:
 
 # Collections for website data
