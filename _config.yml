@@ -28,8 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Mimir:
-    - 'https://class.mimir.io/courses/ea69c458-7197-4411-af4e-50754e398f64'
+  CODIO:
+    - 'https://codio.com/p/login'
   Piazza:
     - 'https://piazza.com/class/ksjaetb15k147d'
   Blackboard:
